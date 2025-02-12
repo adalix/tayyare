@@ -12,3 +12,10 @@ body{
     justify-content: center;
     background: #2d2b2b;
 }
+
+.status{
+    position: fixed;
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+}
